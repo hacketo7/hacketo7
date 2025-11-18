@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>I'm coral, here's a few stuff about me.</p>
+<ul>
+  <li>You can reach out to me on discord @hacketo7s</li>
+  <li>I don't necessarily have a favourite language, but python is a one I like</li>
+  <li>My pronouns are he/him</li>
+  <li>Geometry Dash is my favourite game</li>
+  <li>You can ask me about computers, and I'll try my best to help</li>
+  <li>I'm not really active on this site, I have like a day of activity, then nothing for days, weeks, or months</li>
+</ul>
