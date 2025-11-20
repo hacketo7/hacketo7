@@ -24,3 +24,5 @@ Here are some ideas to get you started:
   <li>You can ask me about computers, and I'll try my best to help</li>
   <li>I'm not really active on this site, I have like a day of activity, then nothing for days, weeks, or months</li>
 </ul>
+
+<a href="https://en.pronouns.page/@hacketo7s">My pronouns page</a>
