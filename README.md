@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-You can contact me on discord at **@hacketo7s**
-My favorite game is Geometry Dash, I play it almost everday
+You can contact me on discord at **@hacketo7s**\
+My favorite game is Geometry Dash, I play it almost everday\
 <a href="https://en.pronouns.page/@hacketo7s">My pronouns page</a>
